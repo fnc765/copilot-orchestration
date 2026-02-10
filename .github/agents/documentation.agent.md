@@ -1,6 +1,6 @@
 ---
 description: ドキュメント作成専門家（テクニカルライティング）
-tools: ['read_file', 'grep_search', 'semantic_search', 'list_dir', 'file_search', 'create_file', 'replace_string_in_file', 'multi_replace_string_in_file', 'get_changed_files', 'run_in_terminal']
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'pylance-mcp-server/*', 'todo']
 agents: []
 user-invokable: true
 model: Claude Opus 4.6 (copilot)

@@ -1,6 +1,6 @@
 ---
 description: 実装プランを生成する専門家（読み取り専用）
-tools: ['search', 'read_file', 'grep_search', 'semantic_search', 'list_dir', 'file_search']
+tools: ['vscode', 'execute', 'read', 'agent', 'search', 'web', 'pylance-mcp-server/*', 'todo']
 agents: []
 user-invokable: true
 model: Claude Opus 4.6 (copilot)

@@ -1,6 +1,6 @@
 ---
 description: コード実装を行う専門家
-tools: ['edit', 'create_file', 'replace_string_in_file', 'multi_replace_string_in_file', 'read_file', 'run_in_terminal', 'get_errors', 'grep_search', 'semantic_search']
+tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'pylance-mcp-server/*', 'ms-python.python/getPythonEnvironmentInfo', 'ms-python.python/getPythonExecutableCommand', 'ms-python.python/installPythonPackage', 'ms-python.python/configurePythonEnvironment', 'todo']
 agents: []
 user-invokable: true
 model: Claude Opus 4.6 (copilot)

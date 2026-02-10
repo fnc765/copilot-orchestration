@@ -1,6 +1,6 @@
 ---
 description: コードレビュー専門家（品質・設計・可読性）
-tools: ['read_file', 'grep_search', 'semantic_search', 'get_errors', 'list_dir', 'file_search']
+tools: ['vscode', 'execute', 'read', 'agent', 'search', 'web', 'pylance-mcp-server/*', 'todo']
 agents: []
 user-invokable: true
 model: Claude Opus 4.6 (copilot)

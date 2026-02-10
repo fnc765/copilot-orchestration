@@ -1,6 +1,6 @@
 ---
 description: セキュリティレビュー専門家
-tools: ['read_file', 'grep_search', 'semantic_search', 'get_errors', 'run_in_terminal']
+tools: ['vscode', 'execute', 'read', 'agent', 'search', 'web', 'pylance-mcp-server/*', 'ms-python.python/getPythonEnvironmentInfo', 'ms-python.python/getPythonExecutableCommand', 'ms-python.python/installPythonPackage', 'ms-python.python/configurePythonEnvironment', 'todo']
 agents: []
 user-invokable: true
 model: Claude Opus 4.6 (copilot)
